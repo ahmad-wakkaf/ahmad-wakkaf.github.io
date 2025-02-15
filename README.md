@@ -17,6 +17,8 @@ This website is a personal portfolio where I share my development projects and p
 - **Visual Studio IDE** <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/images/VisualStudio-Icon.png" alt="Visual Studio Icon" width="30" align="center">
 - **Live Server (five server) Extension** <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/images/LiveServer-Icon.png" alt="Five Server Icon" width="30" align="center">
 - **Google Chrome web browser** <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/images/GoogleChrome-Icon.png" alt="Google Chrome Icon" width="30" align="center">
+- **Git** <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/images/Git-Icon.png" alt="Git Icon" width="30" align="center">
+ 
 
 
 
