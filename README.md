@@ -12,6 +12,9 @@ This website is a personal portfolio where I share my development projects and p
 - **HTML5** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML Icon" width="30" align="center">
 - **CSS3** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS Icon" width="30" align="center">
 - **JavaScript** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="Javascript Icon" width="25" align="center">
+- **Python** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python Icon" width="25" align="center">
+- **Flask** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask Icon" width="30" align="center">
+
 
 **Tools**:
 - **Visual Studio IDE** <img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/icons/VisualStudio-Icon.png" alt="Visual Studio Icon" width="30" align="center">
@@ -29,6 +32,7 @@ This website is a personal portfolio where I share my development projects and p
 - **About section**: Provides a brief personal and professional background.
 - **Education/Experience section**: Details academic qualifications and work history.
 - **Portfolio (Certifications) section**: Showcases technologies, skills, and certifications.
+- **Backend serving**: using Python Flask to serve the frontend (profile page)
 
 
 
