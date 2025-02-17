@@ -37,6 +37,12 @@ This website is a personal portfolio where I share my development projects and p
 - **Portfolio (Certifications) section**: Showcases technologies, skills, and certifications.
 - **Backend serving**: using Python Flask to serve the frontend (profile page)
 
+## 🔎 Overview
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/screenshots/portfolio-1.png" alt="portfolio Image" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/screenshots/portfolio-2.png" alt="portfolio Image" align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/screenshots/portfolio-3.png" alt="portfolio Image"  align="center">
+<img src="https://github.com/ahmad-wakkaf/ahmad-wakkaf.github.io/blob/main/screenshots/portfolio-4.png" alt="portfolio Image" align="center">
+
 
 
 ## 📧 Contact Me
